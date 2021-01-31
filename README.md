@@ -1,20 +1,11 @@
-# nuxt-ssr
+# Easy step Deploy Nuxt.js to Heroku.
 
-## Build Setup
+## 1. Link your repo on Github
 
-```bash
-# install dependencies
-$ yarn install
+![](config_vars.png)
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## 2. Config Vars
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+![](link_github.png)
 
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## 3.
