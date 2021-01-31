@@ -2,8 +2,8 @@
 
 ### 1. Link your repo on Github
 
-![](config_vars.png)
+![](link_github.png)
 
 ### 2. Config Vars
 
-![](link_github.png)
+![](config_vars.png)
