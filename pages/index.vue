@@ -5,15 +5,7 @@
       <h1 class="title">nuxt-ssr</h1>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/9MZa/nuxt-ssr"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
